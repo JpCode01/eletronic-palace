@@ -1,0 +1,22 @@
+[
+    {
+      "name": "Samsung TV 32",
+      "price": 999.99
+    },
+    {
+      "name": "Apple iPhone 12 64GB",
+      "price": 2299.00
+    },
+    {
+      "name": "Sony Headphones",
+      "price": 499.99
+    },
+    {
+      "name": "HP Notebook 16 GB",
+      "price": 3299.99
+    },
+    {
+      "name": "Canon Camera Eos Rebel",
+      "price": 3200.00
+    }
+  ]
